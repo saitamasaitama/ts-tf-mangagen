@@ -1,0 +1,14 @@
+{
+  "name": "ts-tf-mangagen",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:saitamasaitama/ts-tf-mangagen.git",
+  "author": "shinpei_yoshihara <s-yoshihara@saitama-tec.co.jp>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^14.0.24",
+    "tensorflow": "^0.7.0",
+    "tfjs": "^0.6.0",
+    "typescript": "^3.9.7"
+  }
+}
